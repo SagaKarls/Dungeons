@@ -1,0 +1,19 @@
+{
+"Brick":
+{
+	"texture":"brick",
+	"Passable":false
+},
+
+"Floor":
+{ 
+	"texture":"floor_tile",
+	"Passable":true
+},
+
+"Void":
+{ 
+	"texture":"void",
+	"Passable":false
+}
+}
